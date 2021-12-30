@@ -185,6 +185,15 @@ footer li {
 
 @media (min-width: 45em) {
 
+    .search-icon {
+        display: block;
+    }
+    
+    .sign-in {
+        display: block;
+    }
+    
+
     .desc .img {
         width: 70%;
         margin: 0 auto;
@@ -203,6 +212,14 @@ footer li {
 
 @media (min-width: 80em) {
 
+
+    .search-icon {
+        display: block;
+    }
+    
+    .sign-in {
+        display: block;
+    }
 
     .container {
         width: 80%;
